@@ -10,7 +10,7 @@ scala:
 - 2.11.8
 
 jdk:
-- oraclejdk5
+- oraclejdk7
 
 test:
 - mvn clean verify package
